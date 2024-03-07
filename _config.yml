@@ -28,9 +28,24 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  lz13
 
+# logo: /assets/img/logo.png
+
+menu: 
+  - title: Home
+    url: /opg_app/
+  - title: About
+    url: /opg_app/about/
+  - title: Blog
+    url: /opg_app/blog/
+  - title: Contact
+    url: /opg_app/contact/
+
 # Build settings
 # theme: minima
 remote_theme: hydecorp/hydejack@v9.1.6
+
+accent_image: /assets/img/sidebar_honeycomb.jpg
+accent_color: rgb(202,140,0)
 
 plugins:
   - jekyll-feed
@@ -55,3 +70,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+copywright: "© 2024. All rights reserved."
+
+paginate:              10
+paginate_path:         /:num/
