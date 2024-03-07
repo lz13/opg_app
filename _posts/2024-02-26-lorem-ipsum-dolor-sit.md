@@ -5,7 +5,7 @@ date:   2024-02-26 12:33:49 +0100
 categories: lorem ipsum
 ---
 
-### INVITAION
+### INVITATION
 
 <u>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</u>,
 
