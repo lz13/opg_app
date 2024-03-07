@@ -29,6 +29,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lz13
 
 logo: /assets/img/logo3.png
+favicon: /assets/img/logo3.png
+apple_touch_icon: /assets/img/logo3.png
 
 # Sidebar links
 menu: 
