@@ -28,8 +28,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  lz13
 
-# logo: /assets/img/logo.png
+logo: /assets/img/logo3.png
 
+# Sidebar links
 menu: 
   - title: Home
     url: /opg_app/
@@ -50,6 +51,7 @@ accent_color: rgb(202,140,0)
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -73,5 +75,5 @@ plugins:
 
 copywright: "© 2024. All rights reserved."
 
-paginate:              10
-paginate_path:         /:num/
+paginate: 10
+paginate_path: /:num/
