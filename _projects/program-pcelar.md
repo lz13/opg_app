@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: default
 title: Program pčelar
 date: 3 mar 2010
 image:
