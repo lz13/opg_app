@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Lorem Ipsum Dolor Sit Amet"
 date:   2024-02-26 12:33:49 +0100
 categories: lorem ipsum

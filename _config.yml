@@ -54,8 +54,7 @@ menu:
     url: /opg_app/gallery/
 
 # Build settings
-# theme: minima
-remote_theme: hydecorp/hydejack@v9.1.6
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 accent_image: /assets/img/sidebar_honeycomb.jpg
 accent_color: rgb(202,140,0)
@@ -89,3 +88,8 @@ copywright: "© 2024. All rights reserved."
 
 paginate: 10
 paginate_path: /:num/
+
+collections:
+  projects:
+    permalink: /projects/:path/
+    output: true
