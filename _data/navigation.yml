@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
+  - title: "Calendar"
+    url: /calendar/
+  - title: "Contact"
+    url: /contact/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Docs & Forms"
+    url: /docs/
+  - title: "Usefull Links"
+    url: /links/  
+  - title: "Members Corner"
+    url: /members/
+  - title: "Projects"
+    url: /projects/

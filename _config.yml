@@ -296,22 +296,22 @@ defaults:
       related: true
 
 # Sidebar links
-menu: 
-  - title: Home
-    url: /opg_app/
-  - title: Docs & Forms
-    url: /opg_app/docs/
-  - title: Blog
-    url: /opg_app/blog/
-  - title: Links
-    url: /opg_app/links/
-  - title: Members Corner
-    url: /opg_app/members/
-  - title: Association Calendar
-    url: /opg_app/calendar/
-  - title: About
-    url: /opg_app/about/
-  - title: Contact
-    url: /opg_app/contact/
-  - title: Gallery
-    url: /opg_app/gallery/
+# menu: 
+#   - title: Home
+#     url: /opg_app/
+#   - title: Docs & Forms
+#     url: /opg_app/docs/
+#   - title: Blog
+#     url: /opg_app/blog/
+#   - title: Links
+#     url: /opg_app/links/
+#   - title: Members Corner
+#     url: /opg_app/members/
+#   - title: Association Calendar
+#     url: /opg_app/calendar/
+#   - title: About
+#     url: /opg_app/about/
+#   - title: Contact
+#     url: /opg_app/contact/
+#   - title: Gallery
+#     url: /opg_app/gallery/
