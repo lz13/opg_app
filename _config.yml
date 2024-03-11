@@ -27,9 +27,9 @@ url                      : "https://lz13.github.io" # the base hostname & protoc
 baseurl                  : "/opg_app" # the subpath of your site, e.g. "/blog"
 repository               : "lz13/opg_app" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/img/bee2.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-favicon                  : "/assets/img/logo3.png"
-apple_touch_icon         : "/assets/img/logo3.png"
+logo                     : "/assets/img/logo3.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+favicon                  : "/assets/img/bee2.png"
+apple_touch_icon         : "/assets/img/bee2.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 date_format              : "%B %d, %Y" # Date format used in the front matter
 breadcrumbs              : true # true, false (default)
@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
   name             : "Pčelarska Udruga"
-  avatar           : "/assets/img/logo3.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/bee2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bzzzzz"
   location         : "SiSvn"
   email            :

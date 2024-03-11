@@ -1,10 +1,8 @@
 ---
 layout: single
-title: Links
+title: Usefull Links
 permalink: /links/
 ---
-
-# Usefull Links
 
 - [Jekyll](https://jekyllrb.com/)
 - [Jekyll Documentation](https://jekyllrb.com/docs/home/)
