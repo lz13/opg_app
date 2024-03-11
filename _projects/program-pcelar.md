@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Program pčelar
-date: 3 mar 2010
+date: 2024-03-11 12:33:49 +0100
 image:
   path: /assets/img/projects/program-pcelar,25x.jpeg
   srcset:

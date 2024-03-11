@@ -1,6 +1,5 @@
 ---
 layout: single
-title: Projects*
-show_collection: projects
+title: Projects
 featured: true
 ---
