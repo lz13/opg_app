@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Docs
-permalink: /docs/
+permalink: /documents/
 ---
 
 # Documents And Forms
